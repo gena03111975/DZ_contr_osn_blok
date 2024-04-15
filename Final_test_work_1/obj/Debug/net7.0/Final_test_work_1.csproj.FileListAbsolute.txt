@@ -1,0 +1,14 @@
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\bin\Debug\net7.0\Final_test_work_1.exe
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\bin\Debug\net7.0\Final_test_work_1.deps.json
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\bin\Debug\net7.0\Final_test_work_1.runtimeconfig.json
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\bin\Debug\net7.0\Final_test_work_1.dll
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\bin\Debug\net7.0\Final_test_work_1.pdb
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.AssemblyInfoInputs.cache
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.AssemblyInfo.cs
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.csproj.CoreCompileInputs.cache
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.dll
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\refint\Final_test_work_1.dll
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.pdb
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\Final_test_work_1.genruntimeconfig.cache
+C:\Users\gepot\OneDrive\Рабочий стол\gena\control_DZ_osnow_blok\blocsxema\Final_test_work_1\obj\Debug\net7.0\ref\Final_test_work_1.dll
